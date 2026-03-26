@@ -5,8 +5,15 @@
 - 📫 Contact : __jihunlee128@gmail.com__
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eejji)](https://github.com/eejji/github-readme-stats)
+<br>
+<h3>📊 Git Stats 📊</h3>
 
+<div style="display: flex; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eejji&layout=compact&theme=buefy&hide_border=true" width="40%" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=eejji&show_icons=true&theme=buefy&hide_border=true" width="59%" />
+</div>
+<br>
 
 <!--- Algorithm--->
 <div style="text-align: left;">
