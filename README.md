@@ -4,25 +4,14 @@
 - 🔍 Develop and Research AI models for health monitoring using bio-signals  
 - 📫 Contact : __jihunlee128@gmail.com__
 
-
-<br>
-<h3>📊 Git Stats 📊</h3>
-
-<div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eejji&layout=compact&theme=buefy&hide_border=true" width="40%" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=eejji&show_icons=true&theme=buefy&hide_border=true" width="59%" />
-</div>
-<br>
-
-<!--- Algorithm--->
+<!--- Algorithm
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Algorithm </h2>
   
   <a href="https://solved.ac/eejji">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eejji" />
   </a>
-</div>
+</div>--->
     
 
 
