@@ -1,8 +1,11 @@
 - 👋 Hi, I’m __Jihun Lee__
-- 👀 I’m interested in the problem of __diagnosing mental illness through bio-signals and audio signals__.
-- 👀 It also includes __machine learning, deep learning, signal processing__, etc.
-- 🌱 I'm currently learning Master's degree in ___IT Fusion Technology, Chosun University. Rep. of Korea___.
-- 📫 How to reach me jihunlee128@gmail.com
+- 🎓 __B.S.__ in Electronic Engineering (Intelligent IoT) & __M.S.__ in IT Fusion Technology, Chosun University, Rep. of Korea  
+- 💼 Aspiring __AI Healthcare Research Engineer / Scientist__
+- 🔍 Develop and Research AI models for health monitoring using bio-signals  
+- 📫 Contact : __jihunlee128@gmail.com__
+
+
+    
 
 <!---
 eejji/eejji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
